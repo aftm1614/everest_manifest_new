@@ -29,9 +29,6 @@
   <!-- Device repos -->
   <project path="device/lineage/sepolicy" name="device_lineage_sepolicy" remote="everest" />
 
-  <!-- Framework repos -->
-  <project path="frameworks/base" name="frameworks_base" remote="everest" />
-
   <!-- Packages repos -->
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="everest" />
 

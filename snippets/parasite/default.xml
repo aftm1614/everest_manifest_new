@@ -42,6 +42,7 @@
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="parasite" />
+  <project path="frameworks/base" name="frameworks_base" remote="parasite" />
   <project path="frameworks/native" name="frameworks_native" remote="parasite" />
   <project path="frameworks/opt/calendar" name="frameworks_opt_calendar" remote="parasite" />
   <project path="frameworks/opt/colorpicker" name="frameworks_opt_colorpicker" remote="parasite" />
