@@ -27,6 +27,7 @@
   <project path="prebuilts/tools-parasite" name="prebuilts_tools-parasite" remote="parasite" />
 
   <!-- General repos -->
+  <project path="lineage-sdk" name="lineage-sdk" remote="parasite" />
   <project path="vendor/google/dexopt_profiles" name="vendor_google_dexopt_profiles" remote="parasite-gitlab" />
   <project path="vendor/google/interfaces" name="vendor_google_interfaces" remote="parasite" />
   <project path="vendor/google/mainline_modules" name="vendor_google_mainline_modules" remote="parasite" />

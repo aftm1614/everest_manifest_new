@@ -23,7 +23,6 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="bootable/recovery" name="bootable_recovery" remote="everest" />
-  <project path="lineage-sdk" name="lineage-sdk" remote="everest" />
   <project path="manifest" name="manifest" remote="everest" />
 
   <!-- Device repos -->
